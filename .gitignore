@@ -1,0 +1,8 @@
+stackovfl.py
+.vscode/launch.json
+__pycache__/board.cpython-38.pyc
+__pycache__/cell.cpython-38.pyc
+__pycache__/gameboard.cpython-38.pyc
+__pycache__/gui.cpython-38.pyc
+__pycache__/guiboard.cpython-38.pyc
+__pycache__/guicell.cpython-38.pyc
